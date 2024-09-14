@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Samawia</string>
+    <string name="toggle_password_visibility">toggle_password_visibility</string>
+    <string name="wood_damage_assessment">Wood Damage Assessment</string>
+
+    <string-array name="wood_species_array">
+        <item>Abies Pindow</item>
+        <item>Albizia Lebbeck</item>
+        <item>Bombax Cieba L.</item>
+        <item>Cedrus Deodara</item>
+        <item>Citrus Aurantium</item>
+        <item>Cordia Maxa</item>
+        <item>Dalbergia Sissoo</item>
+        <item>Eucalyptus Camaldulensis</item>
+        <item>Ficus Benghalensis</item>
+        <item>Ficus Religiosa</item>
+        <item>Fraxinus Hookeri</item>
+        <item>Jacranda Mimosifolia</item>
+        <item>Juglans Regia</item>
+        <item>Magnifera India</item>
+        <item>Melia Azedarach</item>
+        <item>Morus Macroura</item>
+        <item>Morus Nigra</item>
+        <item>Pinus Roxburghii</item>
+        <item>Pinus Wallichiana</item>
+        <item>Platanus Orientalis</item>
+        <item>Populus Nigra</item>
+        <item>Salix</item>
+        <item>Thuja Occidentalis</item>
+        <item>Bambusa Bamboo</item>
+        <item>Cedar Atlantica</item>
+    </string-array>
+
+</resources>
+
